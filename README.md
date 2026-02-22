@@ -15,7 +15,7 @@ I am currently architecting robust ML systems with a focus on:
 
 #### Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages & Frameworks**
 <br>
@@ -52,10 +52,3 @@ I am currently architecting robust ML systems with a focus on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgulerml&layout=compact&theme=dracula&hide_border=true" />
 </a>
 </p>
-
----
-
-#### Connect with me
-- **Email:** [enesguler.ml@gmail.com](mailto:enesguler.ml@gmail.com)
-- **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346/)
-
