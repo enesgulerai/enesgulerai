@@ -40,15 +40,3 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
 </div>
-
----
-
-#### GitHub Stats
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enesgulerml&show_icons=true&theme=dracula&hide_border=true" alt="Enes's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesgulerml&layout=compact&theme=dracula&hide_border=true" />
-</a>
-</p>
