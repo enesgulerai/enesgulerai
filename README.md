@@ -1,4 +1,4 @@
-### Hi there, I'm Enes!!
+### Hi there, I'm Enes!
 
 I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference architectures and automated CI/CD pipelines. I specialize in transforming experimental models into production-ready microservices using **Kubernetes**, **Docker**, and **AWS**.
 
