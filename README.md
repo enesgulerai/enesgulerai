@@ -7,9 +7,23 @@ I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference 
 #### What I'm working on
 I am currently architecting robust ML systems with a focus on:
 - **Orchestration:** Managing containerized applications with **Kubernetes**.
-- **MLOps:** End-to-end pipeline automation & monitoring.
+- **MLOps & GitOps:** End-to-end pipeline automation, monitoring, and continuous delivery using **ArgoCD**.
 - **Microservices:** Decoupling monolithic ML code into scalable **FastAPI** services.
 - **Infrastructure:** Configuring **AWS** (EC2, VPC, IAM, ECR) and Linux environments for high availability.
+
+---
+
+#### Featured Projects
+
+**1. End-to-End Fashion AI Recommender**
+- Built a cloud-native semantic search engine for fashion items.
+- Optimized a Sentence-Transformer model using INT8 dynamic quantization via **ONNX Runtime**, reducing model size to ~23MB for CPU inference.
+- Integrated **Qdrant Cloud** for high-dimensional vector storage and retrieval.
+- Containerized with **Docker** and deployed on Hugging Face Spaces.
+
+**2. CRM Machine Learning Infrastructure (In Progress)**
+- Architecting a robust ML backend for Customer Relationship Management.
+- Implementing GitOps workflows with **ArgoCD** for automated Kubernetes deployments.
 
 ---
 
@@ -33,7 +47,7 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F163F?style=for-the-badge&logo=helm&logoColor=white" />
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 
 **Data & Databases**
 <br>
@@ -43,3 +57,8 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 
 </div>
+
+---
+
+#### 📬 Let's Connect
+[LinkedIn](www.linkedin.com/in/enes-guler-8ab8a7346)
