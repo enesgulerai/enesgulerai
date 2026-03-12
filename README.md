@@ -1,4 +1,4 @@
-### Hi there, I'm Enes!
+### Hello, I'm Enes!
 
 I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference architectures and automated CI/CD pipelines. I specialize in transforming experimental models into production-ready microservices using **Kubernetes**, **Docker**, and **AWS**.
 
@@ -33,6 +33,7 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F163F?style=for-the-badge&logo=helm&logoColor=white" />
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Data & Databases**
 <br>
