@@ -29,10 +29,11 @@ I am currently architecting robust ML systems with a focus on:
 - **Model Engineering:** Engineered a resource-efficient Random Forest model (size reduced by **97%**, from 1.2GB to 33MB) and utilized **MLflow**, resolving critical Kubernetes OOM errors.
 - **Reliability:** Validated system robustness via Locust stress testing (1000 concurrent connections, 0% error rate) and implemented real-time monitoring with **Prometheus & Grafana**.
 
-**3. CRM Machine Learning Infrastructure (In Progress)**
-- Architecting a robust ML backend for Customer Relationship Management.
-- Implementing GitOps workflows with **ArgoCD** for automated Kubernetes deployments.
-
+**3. CRM MLOps & Customer Churn Prediction System**
+- **Cloud Infrastructure & IaC:** Architected a highly secure cloud environment using **Terraform** to provision AWS EC2 instances and configure strict Security Groups. Automated the deployment of a version-controlled **AWS S3** bucket to isolate ML model artifacts from the codebase.
+- **CI/CD & Build-Time Artifacts:** Engineered a fully automated **GitHub Actions** CI/CD pipeline. Implemented an enterprise-grade build-time download strategy, securely fetching ultra-lightweight **ONNX** models (110KB) and preprocessors directly from S3 during the Docker build phase, ensuring a pristine Git repository.
+- **Microservices & Containerization:** Developed a decoupled architecture featuring a **FastAPI** inference backend, a **Streamlit** UI for real-time churn analysis, and **Redis** for robust state management. Optimized Docker image footprints via custom `.dockerignore` rules and pushed artifacts to GitHub Container Registry (GHCR).
+- **Automated Deployment & Reliability:** Achieved seamless, zero-touch production deployments. Configured the pipeline to automatically connect to AWS EC2 via SSH, pull updated GHCR images, orchestrated services via **Docker Compose**, and execute automated environment cleanups (pruning orphaned images) to preserve cloud resources.
 ---
 
 #### Tech Stack
