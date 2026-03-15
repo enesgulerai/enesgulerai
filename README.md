@@ -70,4 +70,4 @@ I am currently architecting robust ML systems with a focus on:
 ---
 
 #### 📬 Let's Connect
-[LinkedIn](www.linkedin.com/in/enes-guler-8ab8a7346)
+[LinkedIn](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346)
