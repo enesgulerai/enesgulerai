@@ -22,7 +22,7 @@ I am currently architecting robust ML systems with a focus on:
 - **Vector Search Engine:** Integrated **Qdrant** as a high-throughput vector database to enable semantic similarity search, optimizing persistent storage structures for millisecond-latency recommendation retrieval.
 - **DevOps & Observability:** Orchestrated a full CI/CD pipeline via GitHub Actions for automated AWS EC2 deployments. Implemented a robust observability stack (**Prometheus & Grafana**) to track real-time P99 latency and system stability. Enforced rigorous DevSecOps practices (Trivy, Black, Isort) and ensured reliability with Pytest.
 
-**2. Cloud-Native Inference Engine (NYC Project)**
+**2. Cloud-Native Inference Engine (NYC Taxi Project)**
 - **Architecture:** Deployed a decoupled system on AWS EC2 with zero-trust security via IAM Roles and custom Security Groups.
 - **High-Performance:** Achieved an **85x latency reduction** (~281ms to ~3ms) and sustained ~290 RPS by migrating to **ONNX Runtime** and integrating **Redis** caching.
 - **DevSecOps & CI/CD:** Established a GitHub Actions pipeline with Trivy for vulnerability scanning. Reduced production Docker image sizes by **68%** (2.05GB to 650MB) via multi-stage builds.
@@ -51,6 +51,7 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F163F?style=for-the-badge&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge&logo=prefect&logoColor=white" />
 
 **Data & Databases**
 <br>
@@ -58,6 +59,8 @@ I am currently architecting robust ML systems with a focus on:
 <img src="https://img.shields.io/badge/Qdrant-d50000?style=for-the-badge&logo=qdrant&logoColor=white" />
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Redpanda-000000?style=for-the-badge&logo=redpanda&logoColor=white" />
 
 </div>
 
