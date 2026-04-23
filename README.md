@@ -44,11 +44,11 @@ I am currently architecting robust ML systems with a focus on:
 <br>
 <img src="https://img.shields.io/badge/kubernetes-000000.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20actions-000000.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argocd&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argo&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm&logoColor=white" />
 <img src="https://img.shields.io/badge/terraform-000000.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Prefect-000000?style=for-the-badge&logo=prefect&logoColor=white" />
