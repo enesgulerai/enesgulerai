@@ -31,22 +31,39 @@ Rather than full-scale enterprise products, these are architectural experiments 
 
 <div align="left">
 
+**Languages & Frameworks**
+<br>
 <img src="https://img.shields.io/badge/Python-1E1E1E?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-1E1E1E?style=flat-square&logo=streamlit&logoColor=white" />
 
 <br>
-
-<img src="https://img.shields.io/badge/Redis-1E1E1E?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Redpanda-1E1E1E?style=flat-square&logo=redpanda&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=white" />
-
 <br>
 
+**MLOps, Cloud & Infrastructure**
+<br>
 <img src="https://img.shields.io/badge/Kubernetes-1E1E1E?style=flat-square&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-1E1E1E?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-1E1E1E?style=flat-square&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-1E1E1E?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-1E1E1E?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-1E1E1E?style=flat-square&logo=argocd&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-1E1E1E?style=flat-square&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-1E1E1E?style=flat-square&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-1E1E1E?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Prefect-1E1E1E?style=flat-square&logo=prefect&logoColor=white" />
+
+<br>
+<br>
+
+**Data, Streaming & Databases**
+<br>
+<img src="https://img.shields.io/badge/Redis-1E1E1E?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-1E1E1E?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-1E1E1E?style=flat-square&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-1E1E1E?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Redpanda-1E1E1E?style=flat-square&logo=redpanda&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-1E1E1E?style=flat-square&logo=pandas&logoColor=white" />
 
 </div>
 
