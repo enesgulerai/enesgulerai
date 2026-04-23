@@ -4,15 +4,6 @@ I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference 
 
 ---
 
-#### Featured Projects
-
-**1. End-to-End Fashion AI Recommender (H&M Project)**
-- **Cloud-Native MLOps & IaC:** Architected a decoupled deployment strategy by provisioning AWS S3 storage via **Terraform**, removing heavy model artifacts from Docker images. Optimized model deployment via INT8 Dynamic Quantization (**ONNX**), achieving a **~75% reduction** in footprint (100MB+ to 23MB) with dynamic S3 lazy-loading via Boto3.
-- **Architecture & GitOps:** Orchestrated a highly available **Kubernetes** environment managed declaratively via **Helm** and **ArgoCD**. Automated zero-downtime rollouts and utilized multi-stage builds to reduce image sizes by **54%**.
-- **High-Performance API & Reliability:** Architected an asynchronous **Redis** caching layer, slashing inference latency to **<2ms**. Validated robustness via Locust, sustaining **805 RPS** (equivalent to ~2.9M requests/hour) under 2,000 concurrent users with a **0% error rate**.
-- **Vector Search Engine:** Integrated **Qdrant** as a high-throughput vector database to enable semantic similarity search, optimizing persistent storage structures for millisecond-latency recommendation retrieval.
-- **DevOps & Observability:** Orchestrated a full CI/CD pipeline via GitHub Actions for automated AWS EC2 deployments. Implemented a robust observability stack (**Prometheus & Grafana**) to track real-time P99 latency and system stability. Enforced rigorous DevSecOps practices (Trivy, Black, Isort) and ensured reliability with Pytest.
-
 #### Tech Stack
 
 <div align="left">
