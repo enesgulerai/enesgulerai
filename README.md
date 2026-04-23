@@ -13,14 +13,6 @@ I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference 
 - **Vector Search Engine:** Integrated **Qdrant** as a high-throughput vector database to enable semantic similarity search, optimizing persistent storage structures for millisecond-latency recommendation retrieval.
 - **DevOps & Observability:** Orchestrated a full CI/CD pipeline via GitHub Actions for automated AWS EC2 deployments. Implemented a robust observability stack (**Prometheus & Grafana**) to track real-time P99 latency and system stability. Enforced rigorous DevSecOps practices (Trivy, Black, Isort) and ensured reliability with Pytest.
 
-**2. Cloud-Native Inference Engine (NYC Taxi Project)**
-- **Architecture:** Deployed a decoupled system on AWS EC2 with zero-trust security via IAM Roles and custom Security Groups.
-- **High-Performance:** Achieved an **85x latency reduction** (~281ms to ~3ms) and sustained ~290 RPS by migrating to **ONNX Runtime** and integrating **Redis** caching.
-- **DevSecOps & CI/CD:** Established a GitHub Actions pipeline with Trivy for vulnerability scanning. Reduced production Docker image sizes by **68%** (2.05GB to 650MB) via multi-stage builds.
-- **Model Engineering:** Engineered a resource-efficient Random Forest model (size reduced by **97%**, from 1.2GB to 33MB) and utilized **MLflow**, resolving critical Kubernetes OOM errors.
-- **Reliability:** Validated system robustness via Locust stress testing (1000 concurrent connections, 0% error rate) and implemented real-time monitoring with **Prometheus & Grafana**.
----
-
 #### Tech Stack
 
 <div align="left">
