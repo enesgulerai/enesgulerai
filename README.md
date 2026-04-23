@@ -1,15 +1,6 @@
 ### Hello, I'm Enes!
 
-I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference architectures and automated CI/CD pipelines. I specialize in transforming experimental models into production-ready microservices using **Kubernetes**, **Docker**, and **AWS**.
-
----
-
-#### What I'm working on
-I am currently architecting robust ML systems with a focus on:
-- **Orchestration:** Managing containerized applications with **Kubernetes**.
-- **MLOps & GitOps:** End-to-end pipeline automation, monitoring, and continuous delivery using **ArgoCD**.
-- **Microservices:** Decoupling monolithic ML code into scalable **FastAPI** services.
-- **Infrastructure:** Configuring **AWS** (EC2, VPC, IAM, ECR) and Linux environments for high availability.
+I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference architectures and automated CI/CD pipelines. I specialize in transforming experimental models into production-ready microservices using **Kubernetes**, **Kafka/Redpanda**, and **AWS**.
 
 ---
 
