@@ -36,31 +36,31 @@ I am currently architecting robust ML systems with a focus on:
 
 **Languages & Frameworks**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-0052FF?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 **MLOps & Cloud**
 <br>
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argocd&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F163F?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-000000.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-0052FF.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/github%20actions-0052FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-0052FF?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argocd&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0052FF?style=for-the-badge&logo=helm&logoColor=white" />
+<img src="https://img.shields.io/badge/terraform-000000.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Prefect-0052FF?style=for-the-badge&logo=prefect&logoColor=white" />
 
 **Data & Databases**
 <br>
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-d50000?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-000000.svg?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-0052FF?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-0052FF.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Redpanda-000000?style=for-the-badge&logo=redpanda&logoColor=white" />
+<img src="https://img.shields.io/badge/Redpanda-0052FF?style=for-the-badge&logo=redpanda&logoColor=white" />
 
 </div>
 
