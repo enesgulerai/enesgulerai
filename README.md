@@ -1,6 +1,6 @@
 ### Hello, I'm Enes!
 
-I'm a **Software Engineer** specializing in **MLOps and High-Performance Infrastructure**. I bridge the gap between machine learning models and production environments by designing scalable inference architectures, event-driven streaming pipelines, and high-concurrency cloud-native systems.
+I'm an **MLOps & Cloud Infrastructure Engineer** specializing in ultra-low latency architectures and high-performance system engineering. I bridge the gap between complex AI/ML models and production environments by designing scalable inference infrastructures, high-concurrency event-driven streaming pipelines, and cost-optimized, self-healing cloud-native systems.
 
 ---
 
@@ -8,10 +8,10 @@ I'm a **Software Engineer** specializing in **MLOps and High-Performance Infrast
 
 **Languages & Backend Systems**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin--Gonic-009688?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin--Gonic-009688?style=flat-square&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
 
 **Infrastructure & GitOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
