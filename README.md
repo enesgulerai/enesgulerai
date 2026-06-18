@@ -40,4 +40,4 @@ I'm an **MLOps & Cloud Infrastructure Engineer** specializing in ultra-low laten
 ---
 
 #### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346)
+[LinkedIn](https://www.linkedin.com/in/enes-guler-8ab8a7346/)
