@@ -33,7 +33,7 @@ I'm an **MLOps & Cloud Infrastructure Engineer** specializing in ultra-low laten
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFA000?style=flat-square&logo=huggingface&logoColor=white)
 
-**Observability & DevSecOps**
+**Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
