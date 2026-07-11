@@ -1,6 +1,6 @@
 ### Hello, I'm Enes!
 
-I'm an **MLOps & Cloud Infrastructure Engineer** specializing in ultra-low latency architectures and high-performance system engineering. I bridge the gap between complex AI/ML models and production environments by designing scalable inference infrastructures, high-concurrency event-driven streaming pipelines, and cost-optimized, self-healing cloud-native systems.
+I'm an **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low latency architectures and high-performance system engineering. I bridge the gap between complex AI/ML models and production environments by designing scalable inference infrastructures, high-concurrency event-driven streaming pipelines, and cost-optimized, self-healing cloud-native systems.
 
 ---
 
