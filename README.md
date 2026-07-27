@@ -1,6 +1,6 @@
 ### Hello, I'm Enes!
 
-I'm an **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low latency architectures and high-performance system engineering. I bridge the gap between complex AI/ML models and production environments by designing scalable inference infrastructures, high-concurrency event-driven streaming pipelines, and cost-optimized, self-healing cloud-native systems.
+I'm a **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low latency architectures and high-performance system engineering. I bridge the gap between complex AI/ML models and production environments by designing scalable inference infrastructures, high-concurrency event-driven streaming pipelines, and cost-optimized, self-healing cloud-native systems.
 
 ---
 
@@ -12,8 +12,9 @@ I'm an **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low late
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash/Shell](https://img.shields.io/badge/Bash/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Infrastructure & GitOps**
+**Infrastructure, GitOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-FFFFFF?style=flat-square&logo=localstack&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-277A9F?style=flat-square&logo=helm&logoColor=white)
@@ -21,10 +22,13 @@ I'm an **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low late
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**Security & Policy**
+![OPA](https://img.shields.io/badge/OPA-0A2E3F?style=flat-square&logo=open-policy-agent&logoColor=white)
+
 **Data Pipelines & Streaming**
 ![Redpanda](https://img.shields.io/badge/Redpanda-FF2400?style=flat-square&logo=redpanda&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logicColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF2E2E?style=flat-square&logo=qdrant&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-2670FF?style=flat-square&logo=prefect&logoColor=white)
 
@@ -33,9 +37,10 @@ I'm an **DevOps & Cloud Infrastructure Engineer** specializing in ultra-low late
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFA000?style=flat-square&logo=huggingface&logoColor=white)
 
-**Observability**
+**Observability & Testing**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 
 ---
 
